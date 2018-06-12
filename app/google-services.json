@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1037110592305",
+    "firebase_url": "https://fun-for-kids-90006.firebaseio.com",
+    "project_id": "fun-for-kids-90006",
+    "storage_bucket": "fun-for-kids-90006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037110592305:android:8b1a906f4aebf84a",
+        "android_client_info": {
+          "package_name": "com.example.adams.funforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037110592305-tpbfb0q5ma0hg3g1o6n7lovlshfvbb5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adams.funforkids",
+            "certificate_hash": "6891d776dad258410301102a8d35160d177e9497"
+          }
+        },
+        {
+          "client_id": "1037110592305-t17493vqvndc4s820v0lu26aaoqbhj2m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1037110592305-t17493vqvndc4s820v0lu26aaoqbhj2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIYDIHKYJULz2VwnEQF3WSLCDQvOrPLlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037110592305-t17493vqvndc4s820v0lu26aaoqbhj2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
